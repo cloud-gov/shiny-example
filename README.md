@@ -32,7 +32,9 @@ start command:   R -f app.R
 #0   running   2020-05-13T20:54:29Z   0.0%   32K of 256M   8K of 1G
 ```
 
-Visit the listed route in your web browser to see the application in action.
+Visit the listed route in your web browser to see the application in action. it should look like this:
+
+![Screenshot of a Chrome browser at a random URL showing the R Shiny hello example](screenshot.png)
 
 ## Credits
 
